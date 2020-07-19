@@ -11,7 +11,7 @@ class Stack():
 
     def push(self, item):
         if self.full():
-            raise Exception('Stack is full!')            
+            raise Exception('Stack is full!')
 
         self._top += 1
         self._items[self._top] = item
