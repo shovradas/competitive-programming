@@ -1,35 +1,34 @@
 class Stack():
     def __init__(self, size=1024):
-        self.size = size
-        self.items = [None for x in range(size)]
-        self.top = -1
+        self._items = [None for x in range(size)]
+        self._top = -1
 
     def empty(self):
-        return True if self.top==-1 else False
+        return True if self._top==-1 else False
 
     def full(self):
-        return True if self.top==self.size-1 else False
+        return True if self._top==len(self._items) else False
 
     def push(self, item):
         if self.full():
             raise Exception('Stack is full!')            
 
-        self.top += 1
-        self.items[self.top] = item
+        self._top += 1
+        self._items[self._top] = item
 
     def pop(self):
         if self.empty():
             raise Exception('Stack is empty!')
 
-        item = self.items[self.top]
-        self.top -= 1
+        item = self._items[self._top]
+        self._top -= 1
         return item
 
     def peek(self):
-        return self.items[self.top]    
+        return self._items[self._top]
 
     def size(self):
-        return self.top+1
+        return self._top+1
 
 
 if __name__ == '__main__':
@@ -39,5 +38,5 @@ if __name__ == '__main__':
     stack.push(20)
     # stack.push(30) # raises stack full error
     while not stack.empty():
-        print(stack.pop())
+        print(stack.pop(), stack.size())
     # stack.pop() # raises stack empty error
