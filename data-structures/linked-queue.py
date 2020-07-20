@@ -53,14 +53,14 @@ if __name__ == '__main__':
     queue.push(30)
     queue.push(40)
 
-    print(queue.size(), queue.front(), queue.back(), queue.pop())
-    print(queue.size(), queue.front(), queue.back(), queue.pop())
-    print(queue.size(), queue.front(), queue.back(), queue.pop())
-    print(queue.size(), queue.front(), queue.back(), queue.pop())
-    print(queue.size())
-    print(queue.pop())
-    
-    # while not queue.empty():
-    #    print(queue.size(), queue.pop())
+    # print(queue.size(), queue.front(), queue.back(), queue.pop())
+    # print(queue.size(), queue.front(), queue.back(), queue.pop())
+    # print(queue.size(), queue.front(), queue.back(), queue.pop())
+    # print(queue.size(), queue.front(), queue.back(), queue.pop())
     # print(queue.size())
-    # queue.pop() # raises stack empty error
+    # print(queue.pop())  # raises queue empty error
+    
+    while not queue.empty():
+       print(queue.size(), queue.pop())
+    print(queue.size())
+    # queue.pop() # raises queue empty error
