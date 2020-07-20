@@ -27,6 +27,8 @@ class Stack():
         return item
 
     def peek(self):
+        if self.empty():
+            raise Exception('Stack is empty!')
         return self._head.item
 
     def size(self):        
