@@ -38,5 +38,6 @@ if __name__ == '__main__':
     stack.push(20)
     # stack.push(30) # raises stack full error
     while not stack.empty():
-        print(stack.pop(), stack.size())
+        print(stack.size(), stack.pop())
+    print(stack.size())
     # stack.pop() # raises stack empty error
