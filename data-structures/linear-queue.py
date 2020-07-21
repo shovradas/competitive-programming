@@ -1,3 +1,7 @@
+"""Provides a sample implementation of Linear Queue"""
+
+__author__ = "Shovra Das"
+
 class Queue():
     def __init__(self, size=1024):
         self._items = [None for x in range(size)]

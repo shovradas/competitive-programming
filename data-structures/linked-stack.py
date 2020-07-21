@@ -1,3 +1,7 @@
+"""Provides a sample implementation of Linked Stack"""
+
+__author__ = "Shovra Das"
+
 class Node():
     def __init__(self, item):
         self.item = item

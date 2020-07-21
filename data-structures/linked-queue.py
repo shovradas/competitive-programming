@@ -1,3 +1,7 @@
+"""Provides a sample implementation of Linked Queue"""
+
+__author__ = "Shovra Das"
+
 class Node():
     def __init__(self, item):
         self.item = item
