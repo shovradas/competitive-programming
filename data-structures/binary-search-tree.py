@@ -42,6 +42,7 @@ class BST():
         print(curr.left.left.item)
         print(curr.right.left.item)
         print(curr.left.left.left.item)
+        print(curr.left.left.left.right.item)
 
 
 if __name__ == '__main__':
@@ -54,4 +55,5 @@ if __name__ == '__main__':
     bst.insert(40)
     bst.insert(55)
     bst.insert(30)
+    bst.insert(35)
     bst.traverse()
