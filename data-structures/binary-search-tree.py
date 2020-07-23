@@ -1,5 +1,7 @@
 """Provides a sample implementation of Binary Search Tree"""
 
+from collections import deque
+
 __author__ = "Shovra Das"
 
 class Node():
@@ -33,27 +35,46 @@ class BST():
                         break        
                     curr = curr.left
 
-    def traverse(self):
+    def search(self, key):
+        stack = deque()
         curr = self._root
-        print(curr.item)
-        print(curr.left.item)
-        print(curr.right.item)
-        print(curr.right.right.item)
-        print(curr.left.left.item)
-        print(curr.right.left.item)
-        print(curr.left.left.left.item)
-        print(curr.left.left.left.right.item)
+        while curr or stack:
+            while curr:
+                stack.append(curr)
+                curr = curr.left
+            curr = stack.pop()            
+            if curr.item == key:
+                return curr
+            curr = curr.right
+        return None
 
+    def inorder(self):
+        stack = deque()
+        curr = self._root
+        while curr or stack:
+            while curr:
+                stack.append(curr)
+                curr = curr.left
+            curr = stack.pop()
+            print(curr.item, end=' ')
+            curr = curr.right
 
 if __name__ == '__main__':
     # Sample implementation
     bst = BST()
-    bst.insert(50)
-    bst.insert(60)
-    bst.insert(45)
-    bst.insert(70)
-    bst.insert(40)
-    bst.insert(55)
-    bst.insert(30)
-    bst.insert(35)
-    bst.traverse()
+
+    # Insertion
+    keys = [50, 10, 30, 45, 65, 25, 15, 85, 70]
+    for k in keys:
+        bst.insert(k)
+
+    # Print inorder
+    bst.inorder()
+    print()
+
+    # Search key
+    node = bst.search(25)
+    if node is not None:
+        print(node.item)
+    else:
+        print('Not found')
