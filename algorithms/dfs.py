@@ -1,8 +1,8 @@
 """
-A sample implentatiobn for Breadth First Search (BFS) algorithm
+A sample implentatiobn for Depth First Search (DFS) algorithm
 """
 
-from queue import SimpleQueue
+from collections import deque
 from collections import defaultdict
 
 __author__ = 'Shovra Das'
@@ -24,20 +24,20 @@ class Graph:
         return graph_str.strip()
 
 
-def BFS(graph, start, goal=None):
-    q = SimpleQueue()
+def DFS(graph, start, goal=None):
+    stack = deque()
 
-    q.put(start)
+    stack.append(start)
     visited = set(start)    
-    while not q.empty():
-        vertex = q.get()
+    while stack:
+        vertex = stack.pop()
         print(vertex, end=' ')
         if goal and goal==vertex:
             return vertex
 
         for adj in graph.get_adjacents(vertex):          
             if adj not in visited:
-                q.put(adj)
+                stack.append(adj)
                 visited.add(adj) 
     return None
 
@@ -55,11 +55,11 @@ if __name__ == '__main__':
     print(graph)
     
     # No goal specified. Traverses the whole graph
-    BFS(graph, 'A')
+    DFS(graph, 'A')
     print()
 
     # Goal node specified. Returns the node or None if not found
-    vertex = BFS(graph, 'A', 'E')
+    vertex = DFS(graph, 'A', 'E')
     if vertex:
         print(f'=> Found: {vertex}')
     else:
