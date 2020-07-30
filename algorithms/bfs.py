@@ -8,11 +8,14 @@ from collections import defaultdict
 __author__ = 'Shovra Das'
 
 class Graph:
-    def __init__(self):
+    def __init__(self, digraph=False):
+        self._digraph = digraph
         self._V = defaultdict(list)
 
     def add_edge(self, u, v):
         self._V[u].append(v)
+        if not self._digraph:
+            self._V[v].append(u)
 
     def get_adjacents(self, u):
         return self._V[u]
