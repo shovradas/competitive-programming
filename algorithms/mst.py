@@ -7,11 +7,20 @@ import random
 
 __author__ = 'Shovra Das'
 
-class Edge:
+# Represents an weighted edge
+class WeightedEdge:
     def __init__(self, u, v, weight):
         self.u = u
         self.v = v
         self.weight = weight
+
+class WeightedVertex:
+    def __init__(self, vertex, weight):
+        self.vertex = vertex
+        self.weight = weight
+
+    def __repr__(self):
+        return f'{self.vertex}:{self.weight}'
 
 # Undirected weighted graph, G=(V, E)
 class Graph:
@@ -25,9 +34,8 @@ class Graph:
     def _build_graph(self):
         self._graph = {v: [] for v in self._vertices}
         for edge in self._edges:
-            u, v = edge.u
-            self._graph[edge.u].append(edge.v)
-            self._graph[v].append(u)
+            self._graph[edge.u].append(WeightedVertex(edge.v, edge.weight))
+            self._graph[edge.v].append(WeightedVertex(edge.u, edge.weight))
 
     def get_vertices(self):
         return self._vertices
@@ -40,8 +48,8 @@ class Graph:
 
     def __repr__(self):
         graph_str = ''
-        for vertex in self._graph: 
-            graph_str += f'{vertex}->[{",".join(self._graph[vertex])}]\r\n'
+        for vertex, adjacents in self._graph.items():        
+            graph_str += f'{vertex}->[{",".join(map(str, adjacents))}]\r\n'
         return graph_str.strip()
 
 
@@ -55,13 +63,13 @@ if __name__ == '__main__':
     # Sample undirected graph
     vertices = {'A', 'B', 'C', 'D', 'E'}
     edges = {
-        Edge('A', 'B', 4),
-        Edge('A', 'C', 5),
-        Edge('B', 'C', 7),
-        Edge('B', 'D', 1),
-        Edge('C', 'D', 3)
+        WeightedEdge('A', 'B', 4),
+        WeightedEdge('A', 'C', 5),
+        WeightedEdge('B', 'C', 7),
+        WeightedEdge('B', 'D', 1),
+        WeightedEdge('C', 'D', 3)
     }
-    graph = Graph(vertices, edges)    
+    graph = Graph(vertices, edges)
     print(graph)
 
     MST(graph)
