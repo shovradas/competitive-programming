@@ -5,6 +5,7 @@
 - `standardize-mobile-number-using-decorators.py` [problem-link](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem)
 - `designer-door-mat.py` [problem-link](https://www.hackerrank.com/challenges/designer-door-mat/problem)
 - `symmetric-difference.py` [problem-link](https://www.hackerrank.com/challenges/symmetric-difference/problem)
+- `no-idea.py` [problem-link](https://www.hackerrank.com/challenges/no-idea/problem)
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
