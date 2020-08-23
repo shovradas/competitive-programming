@@ -5,3 +5,4 @@
 - `designer-door-mat.py` [problem-link](https://www.hackerrank.com/challenges/designer-door-mat/problem)
 - `symmetric-difference.py` [problem-link](https://www.hackerrank.com/challenges/symmetric-difference/problem)
 - `no-idea.py` [problem-link](https://www.hackerrank.com/challenges/no-idea/problem)
+- `py-check-strict-superset` [problem-link](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
