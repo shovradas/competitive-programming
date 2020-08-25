@@ -7,3 +7,4 @@
 - `no-idea.py` [problem-link](https://www.hackerrank.com/challenges/no-idea/problem)
 - `py-check-strict-superset` [problem-link](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
 - `py-set-mutations` [problem-link](https://www.hackerrank.com/challenges/py-set-mutations/problem)
+- `exceptions` [problem-link](https://www.hackerrank.com/challenges/exceptions/problem)
