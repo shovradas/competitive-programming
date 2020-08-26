@@ -1,3 +1,4 @@
+# Problem Link: https://www.hackerrank.com/challenges/alphabet-rangoli/problem
 
 def print_rangoli(size):
     w = size + 3*(size-1)

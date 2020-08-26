@@ -9,6 +9,8 @@
 - `py-check-strict-superset` [problem-link](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)
 - `py-set-mutations` [problem-link](https://www.hackerrank.com/challenges/py-set-mutations/problem)
 - `exceptions` [problem-link](https://www.hackerrank.com/challenges/exceptions/problem)
+- `python-time-delta` [problem-link](https://www.hackerrank.com/challenges/python-time-delta/problem)
+- `alphabet-rangoli` [problem-link](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
