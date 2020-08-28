@@ -11,3 +11,4 @@
 - `python-time-delta` [problem-link](https://www.hackerrank.com/challenges/python-time-delta/problem)
 - `alphabet-rangoli` [problem-link](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
 - `py-collections-namedtuple` [problem-link](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)
+- `py-collections-ordereddict` [problem-link](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
