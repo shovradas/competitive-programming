@@ -13,3 +13,4 @@
 - `py-collections-namedtuple` [problem-link](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)
 - `py-collections-ordereddict` [problem-link](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
 - `itertools-product` [problem-link](https://www.hackerrank.com/challenges/itertools-product/problem)
+- `itertools-permutations` [problem-link](https://www.hackerrank.com/challenges/itertools-permutations/problem)
