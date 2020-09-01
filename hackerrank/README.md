@@ -15,6 +15,7 @@
 - `py-collections-ordereddict` [problem-link](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
 - `itertools-product` [problem-link](https://www.hackerrank.com/challenges/itertools-product/problem)
 - `itertools-permutations` [problem-link](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+- `itertools-combinations` [problem-link](https://www.hackerrank.com/challenges/itertools-combinations/problem)
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
