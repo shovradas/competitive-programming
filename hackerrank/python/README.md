@@ -18,3 +18,4 @@
 - `itertools-combinations-with-replacement` [problem-link](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem)
 - `polar-coordinates` [problem-link](https://www.hackerrank.com/challenges/polar-coordinates/problem)
 - `input` [problem-link](https://www.hackerrank.com/challenges/input/problem)
+- `python-mod-divmod` [problem-link](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
