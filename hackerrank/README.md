@@ -21,7 +21,8 @@
 - `input` [problem-link](https://www.hackerrank.com/challenges/input/problem)
 - `python-mod-divmod` [problem-link](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
 - `python-power-mod-power` [problem-link](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
-
+- `calendar-module` [problem-link](https://www.hackerrank.com/challenges/calendar-module/problem)
+- `python-integers-come-in-all-sizes` [problem-link](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
 
 
 ### C++

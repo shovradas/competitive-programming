@@ -1,0 +1,6 @@
+# Problem Link: https://www.hackerrank.com/challenges/calendar-module/problem
+
+import calendar
+m, d, y = map(int, input().split())
+week_days = ['MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY', 'SUNDAY']
+print(week_days[calendar.weekday(y, m, d)])
