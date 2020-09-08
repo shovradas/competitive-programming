@@ -22,3 +22,4 @@
 - `python-power-mod-power` [problem-link](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
 - `calendar-module` [problem-link](https://www.hackerrank.com/challenges/calendar-module/problem)
 - `python-integers-come-in-all-sizes` [problem-link](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
+- `zipped` [problem-link](https://www.hackerrank.com/challenges/zipped/problem)
