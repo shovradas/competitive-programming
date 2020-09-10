@@ -24,3 +24,4 @@
 - `python-integers-come-in-all-sizes` [problem-link](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
 - `zipped` [problem-link](https://www.hackerrank.com/challenges/zipped/problem)
 - `map-and-lambda-expression` [problem-link](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
+- `introduction-to-regex` [problem-link](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
