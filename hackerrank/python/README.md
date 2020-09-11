@@ -25,3 +25,4 @@
 - `zipped` [problem-link](https://www.hackerrank.com/challenges/zipped/problem)
 - `map-and-lambda-expression` [problem-link](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
 - `introduction-to-regex` [problem-link](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
+- `re-split` [problem-link](https://www.hackerrank.com/challenges/re-split/problem)
