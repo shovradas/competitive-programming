@@ -27,6 +27,7 @@
 - `map-and-lambda-expression` [problem-link](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)
 - `introduction-to-regex` [problem-link](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
 - `re-split` [problem-link](https://www.hackerrank.com/challenges/re-split/problem)
+- `re-start-re-end` [problem-link](https://www.hackerrank.com/challenges/re-start-re-end/problem)
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
