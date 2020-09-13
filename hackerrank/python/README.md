@@ -27,3 +27,4 @@
 - `introduction-to-regex` [problem-link](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
 - `re-split` [problem-link](https://www.hackerrank.com/challenges/re-split/problem)
 - `re-start-re-end` [problem-link](https://www.hackerrank.com/challenges/re-start-re-end/problem)
+- `re-sub-regex-substitution` [problem-link](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)
