@@ -31,6 +31,8 @@
 - `re-sub-regex-substitution` [problem-link](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem)
 - `validating-named-email-addresses` [problem-link](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem)
 - `hex-color-code` [problem-link](https://www.hackerrank.com/challenges/hex-color-code/problem)
+- `np-arrays` [problem-link](https://www.hackerrank.com/challenges/np-arrays/problem)
+- `incorrect-regex` [problem-link](https://www.hackerrank.com/challenges/incorrect-regex/problem)
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
