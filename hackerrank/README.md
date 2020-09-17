@@ -33,6 +33,7 @@
 - `hex-color-code` [problem-link](https://www.hackerrank.com/challenges/hex-color-code/problem)
 - `np-arrays` [problem-link](https://www.hackerrank.com/challenges/np-arrays/problem)
 - `incorrect-regex` [problem-link](https://www.hackerrank.com/challenges/incorrect-regex/problem)
+- `validating-the-phone-number` [problem-link](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
