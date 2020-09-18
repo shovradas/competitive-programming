@@ -33,5 +33,6 @@
 - `np-arrays` [problem-link](https://www.hackerrank.com/challenges/np-arrays/problem)
 - `incorrect-regex` [problem-link](https://www.hackerrank.com/challenges/incorrect-regex/problem)
 - `validating-the-phone-number` [problem-link](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
+- `re-findall-re-finditer` [problem-link](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
 
 
