@@ -34,5 +34,6 @@
 - `incorrect-regex` [problem-link](https://www.hackerrank.com/challenges/incorrect-regex/problem)
 - `validating-the-phone-number` [problem-link](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 - `re-findall-re-finditer` [problem-link](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
+- `validating-uid` [problem-link](https://www.hackerrank.com/challenges/validating-uid/problem)
 
 
