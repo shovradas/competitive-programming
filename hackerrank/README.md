@@ -36,6 +36,8 @@
 - `validating-the-phone-number` [problem-link](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)
 - `re-findall-re-finditer` [problem-link](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
 - `validating-uid` [problem-link](https://www.hackerrank.com/challenges/validating-uid/problem)
+- `np-min-and-max` [problem-link](https://www.hackerrank.com/challenges/np-min-and-max/problem)
+
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
