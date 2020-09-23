@@ -39,7 +39,7 @@
 - `np-min-and-max` [problem-link](https://www.hackerrank.com/challenges/np-min-and-max/problem)
 - `np-shape-reshape` [problem-link](https://www.hackerrank.com/challenges/np-shape-reshape/problem)
 - `np-transpose-and-flatten` [problem-link](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
-
+- `np-concatenate` [problem-link](https://www.hackerrank.com/challenges/np-concatenate/problem)
 
 
 ### C++
