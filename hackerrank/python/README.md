@@ -40,3 +40,4 @@
 - `np-transpose-and-flatten` [problem-link](https://www.hackerrank.com/challenges/np-transpose-and-flatten/problem)
 - `np-concatenate` [problem-link](https://www.hackerrank.com/challenges/np-concatenate/problem)
 - `np-zeros-and-ones` [problem-link](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
+- `np-eye-and-identity` [problem-link](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)
