@@ -42,6 +42,7 @@
 - `np-concatenate` [problem-link](https://www.hackerrank.com/challenges/np-concatenate/problem)
 - `np-zeros-and-ones` [problem-link](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)
 - `np-eye-and-identity` [problem-link](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)
+- `np-array-mathematics` [problem-link](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
 
 
 ### C++
