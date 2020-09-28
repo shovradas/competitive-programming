@@ -44,7 +44,7 @@
 - `np-eye-and-identity` [problem-link](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)
 - `np-array-mathematics` [problem-link](https://www.hackerrank.com/challenges/np-array-mathematics/problem)
 - `floor-ceil-and-rint` [problem-link](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)
-
+- `np-sum-and-prod` [problem-link](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
