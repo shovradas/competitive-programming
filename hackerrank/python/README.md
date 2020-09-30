@@ -45,3 +45,4 @@
 - `floor-ceil-and-rint` [problem-link](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)
 - `np-sum-and-prod` [problem-link](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)
 - `np-mean-var-and-std` [problem-link](https://www.hackerrank.com/challenges/np-mean-var-and-std/problem)
+- `np-dot-and-cross` [problem-link](https://www.hackerrank.com/challenges/np-dot-and-cross/problem)
