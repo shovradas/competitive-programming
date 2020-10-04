@@ -49,3 +49,4 @@
 - `np-inner-and-outer` [problem-link](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)
 - `re-group-groups` [problem-link](https://www.hackerrank.com/challenges/re-group-groups/problem)
 - `xml-1-find-the-score` [problem-link](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)
+- `xml2-find-the-maximum-depth` [problem-link](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/)problem)
