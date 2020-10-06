@@ -52,6 +52,8 @@
 - `xml-1-find-the-score` [problem-link](https://www.hackerrank.com/challenges/xml-1-find-the-score/problem)
 - `xml2-find-the-maximum-depth` [problem-link](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem)
 - `reduce-function` [problem-link](https://www.hackerrank.com/challenges/reduce-function/problem)
+- `ginorts` [problem-link](https://www.hackerrank.com/challenges/ginorts/problem)
+
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
