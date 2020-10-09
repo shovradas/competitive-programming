@@ -55,6 +55,8 @@
 - `ginorts` [problem-link](https://www.hackerrank.com/challenges/ginorts/problem)
 - `python-sort-sort` [problem-link](https://www.hackerrank.com/challenges/python-sort-sort/problem)
 - `compress-the-string` [problem-link](https://www.hackerrank.com/challenges/compress-the-string/problem)
+- `maximize-it` [problem-link](https://www.hackerrank.com/challenges/maximize-it/problem)
+
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
