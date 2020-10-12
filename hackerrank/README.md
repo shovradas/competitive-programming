@@ -58,6 +58,8 @@
 - `maximize-it` [problem-link](https://www.hackerrank.com/challenges/maximize-it/problem)
 - `merge-the-tools` [problem-link](https://www.hackerrank.com/challenges/merge-the-tools/problem)
 - `most-commons` [problem-link](https://www.hackerrank.com/challenges/most-commons/problem)
+- `words-score` [problem-link](https://www.hackerrank.com/challenges/words-score/problem)
+
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
