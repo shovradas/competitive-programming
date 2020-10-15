@@ -61,6 +61,7 @@
 - `words-score` [problem-link](https://www.hackerrank.com/challenges/words-score/problem)
 - `validate-list-of-email-address-with-filter` [problem-link](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)
 - `html-parser-part-1` [problem-link](https://www.hackerrank.com/challenges/html-parser-part-1/problem)
+- `html-parser-part-2` [problem-link](https://www.hackerrank.com/challenges/html-parser-part-2/problem)
 
 
 ### C++
