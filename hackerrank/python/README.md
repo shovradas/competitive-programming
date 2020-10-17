@@ -62,3 +62,4 @@
 - `html-parser-part-1` [problem-link](https://www.hackerrank.com/challenges/html-parser-part-1/problem)
 - `html-parser-part-2` [problem-link](https://www.hackerrank.com/challenges/html-parser-part-2/problem)
 - `detect-html-tags-attributes-and-attribute-values` [problem-link](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem)
+- `validating-credit-card-number` [problem-link](https://www.hackerrank.com/challenges/validating-credit-card-number/problem)
