@@ -66,6 +66,8 @@
 - `validating-credit-card-number` [problem-link](https://www.hackerrank.com/challenges/validating-credit-card-number/problem)
 - `matrix-script` [problem-link](https://www.hackerrank.com/challenges/matrix-script/problem)
 - `iterables-and-iterators` [problem-link](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
+- `default-arguments` [problem-link](https://www.hackerrank.com/challenges/default-arguments/problem)
+
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
