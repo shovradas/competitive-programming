@@ -66,3 +66,4 @@
 - `matrix-script` [problem-link](https://www.hackerrank.com/challenges/matrix-script/problem)
 - `iterables-and-iterators` [problem-link](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
 - `default-arguments` [problem-link](https://www.hackerrank.com/challenges/default-arguments/problem)
+- `np-linear-algebra` [problem-link](https://www.hackerrank.com/challenges/np-linear-algebra/problem)
