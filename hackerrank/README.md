@@ -68,6 +68,7 @@
 - `iterables-and-iterators` [problem-link](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
 - `default-arguments` [problem-link](https://www.hackerrank.com/challenges/default-arguments/problem)
 - `np-linear-algebra` [problem-link](https://www.hackerrank.com/challenges/np-linear-algebra/problem)
+- `np-polynomials` [problem-link](https://www.hackerrank.com/challenges/np-polynomials/problem)
 
 
 ### C++
