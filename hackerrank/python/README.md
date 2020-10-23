@@ -68,3 +68,4 @@
 - `default-arguments` [problem-link](https://www.hackerrank.com/challenges/default-arguments/problem)
 - `np-linear-algebra` [problem-link](https://www.hackerrank.com/challenges/np-linear-algebra/problem)
 - `np-polynomials` [problem-link](https://www.hackerrank.com/challenges/np-polynomials/problem)
+- `validating-postalcode` [problem-link](https://www.hackerrank.com/challenges/validating-postalcode/problem)
