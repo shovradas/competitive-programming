@@ -70,6 +70,8 @@
 - `np-linear-algebra` [problem-link](https://www.hackerrank.com/challenges/np-linear-algebra/problem)
 - `np-polynomials` [problem-link](https://www.hackerrank.com/challenges/np-polynomials/problem)
 - `validating-postalcode` [problem-link](https://www.hackerrank.com/challenges/validating-postalcode/problem)
+- `find-angle` [problem-link](https://www.hackerrank.com/challenges/find-angle/problem)
+
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
