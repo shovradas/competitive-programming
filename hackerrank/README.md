@@ -72,7 +72,7 @@
 - `validating-postalcode` [problem-link](https://www.hackerrank.com/challenges/validating-postalcode/problem)
 - `find-angle` [problem-link](https://www.hackerrank.com/challenges/find-angle/problem)
 - `the-minion-game` [problem-link](https://www.hackerrank.com/challenges/the-minion-game/problem)
-
+- `piling-up` [problem-link](https://www.hackerrank.com/challenges/piling-up/problem)
 
 ### C++
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
