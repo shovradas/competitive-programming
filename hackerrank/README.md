@@ -74,6 +74,7 @@
 - `the-minion-game` [problem-link](https://www.hackerrank.com/challenges/the-minion-game/problem)
 - `piling-up` [problem-link](https://www.hackerrank.com/challenges/piling-up/problem)
 - `class-2-find-the-torsional-angle` [problem-link](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)
+- `triangle-quest-2` [problem-link](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
 
 
 ### C++
