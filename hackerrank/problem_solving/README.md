@@ -4,6 +4,7 @@
 ### Warmup
 - `solve-me-first.py` [problem-link](https://www.hackerrank.com/challenges/solve-me-first/problem)
 - `simple-array-sum.py` [problem-link](https://www.hackerrank.com/challenges/simple-array-sum/problem)
+- `mini-max-sum.py` [problem-link](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 ### Implementation
 ### Strings
 ### Sorting
