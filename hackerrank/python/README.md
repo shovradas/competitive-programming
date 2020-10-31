@@ -49,6 +49,7 @@
 - `python-mod-divmod.py` [problem-link](https://www.hackerrank.com/challenges/python-mod-divmod/problem)
 - `python-power-mod-power.py` [problem-link](https://www.hackerrank.com/challenges/python-power-mod-power/problem)
 - `python-integers-come-in-all-sizes.py` [problem-link](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)
+- `python-quest-1.py` [problem-link](https://www.hackerrank.com/challenges/python-quest-1/problem)
 ## Itertools
 - `itertools-product.py` [problem-link](https://www.hackerrank.com/challenges/itertools-product/problem)
 - `itertools-permutations.py` [problem-link](https://www.hackerrank.com/challenges/itertools-permutations/problem)
