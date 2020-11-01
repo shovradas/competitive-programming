@@ -1,0 +1,44 @@
+<!--
+    https://www.hackerrank.com/challenges/js10-buttons-container
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Buttons Grid</title>        
+        <style>
+        	#btns{
+            	width: 75%;
+            }
+            #btns button{
+            	width: 30%;
+                height: 48px;
+                font-size: 24px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="btns">
+            <button id="btn1">1</button>
+            <button id="btn2">2</button>
+            <button id="btn3">3</button>
+            <button id="btn4">4</button>
+            <button id="btn5">5</button>
+            <button id="btn6">6</button>
+            <button id="btn7">7</button>
+            <button id="btn8">8</button>
+            <button id="btn9">9</button>
+        </div>
+    </body>
+    <script>
+        document.querySelector('#btn5').addEventListener("click", rotate, false);        
+        
+        let sequence = [1, 2, 3, 6, 9, 8, 7, 4];
+        let btns = [1, 2, 3, 6, 9, 8, 7, 4]
+        function rotate(){
+            let lastElement = sequence.pop();        	
+        	sequence.unshift(lastElement);
+            sequence.forEach((e, i)=> document.querySelector(`#btn${btns[i]}`).innerHTML = sequence[i]);
+        }
+    </script>
+</html>
