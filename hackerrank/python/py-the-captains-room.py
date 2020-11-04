@@ -10,4 +10,4 @@ for r in allocation:
         rooms.add(r)
 
 captains_room = rooms - group_rooms
-print(captains_room.pop())
+print(captains_room.pop())  
