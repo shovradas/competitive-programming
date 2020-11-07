@@ -3,10 +3,10 @@
 - `cpp-hello-world.cpp` [problem-link](https://www.hackerrank.com/challenges/cpp-hello-world/problem)
 - `cpp-input-and-output.cpp` [problem-link](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)
 - `arrays-introduction.cpp` [problem-link](https://www.hackerrank.com/challenges/arrays-introduction/problem)
-- `c-tutorial-functions.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)
 - `c-tutorial-basic-data-types.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)
 - `c-tutorial-conditional-if-else.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)
-- `file.cpp` [problem-link](link)
+- `c-tutorial-for-loop.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)
+- `c-tutorial-functions.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)
 - `file.cpp` [problem-link](link)
 - `file.cpp` [problem-link](link)
 ## Strings
@@ -15,7 +15,7 @@
 - `file.cpp` [problem-link](link)
 - `file.cpp` [problem-link](link)
 ## Classes
-- `file.cpp` [problem-link](link)
+- `c-tutorial-struct.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)
 - `file.cpp` [problem-link](link)
 - `file.cpp` [problem-link](link)
 - `file.cpp` [problem-link](link)
