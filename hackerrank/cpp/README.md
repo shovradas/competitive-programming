@@ -7,7 +7,7 @@
 - `c-tutorial-conditional-if-else.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)
 - `c-tutorial-for-loop.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)
 - `c-tutorial-functions.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)
-- `file.cpp` [problem-link](link)
+- `c-tutorial-pointer.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)
 - `file.cpp` [problem-link](link)
 ## Strings
 - `file.cpp` [problem-link](link)
