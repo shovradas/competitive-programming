@@ -16,7 +16,7 @@
 - `file.cpp` [problem-link](link)
 ## Classes
 - `c-tutorial-struct.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)
-- `file.cpp` [problem-link](link)
+- `c-tutorial-class.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-class/problem)
 - `file.cpp` [problem-link](link)
 - `file.cpp` [problem-link](link)
 ## STL
