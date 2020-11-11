@@ -18,7 +18,7 @@
 - `c-tutorial-struct.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)
 - `c-tutorial-class.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-class/problem)
 - `classes-objects.cpp` [problem-link](https://www.hackerrank.com/challenges/classes-objects/problem)
-- `file.cpp` [problem-link](link)
+- `box-it.cpp` [problem-link](https://www.hackerrank.com/challenges/box-it/problem)
 ## STL
 - `file.cpp` [problem-link](link)
 - `file.cpp` [problem-link](link)
