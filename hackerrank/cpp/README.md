@@ -19,6 +19,7 @@
 - `c-tutorial-class.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-class/problem)
 - `classes-objects.cpp` [problem-link](https://www.hackerrank.com/challenges/classes-objects/problem)
 - `box-it.cpp` [problem-link](https://www.hackerrank.com/challenges/box-it/problem)
+- `inherited-code.cpp` [problem-link](https://www.hackerrank.com/challenges/inherited-code/problem)
 ## STL
 - `file.cpp` [problem-link](link)
 - `file.cpp` [problem-link](link)
