@@ -1,5 +1,8 @@
 // https://www.hackerrank.com/challenges/deque-stl/problem
 
+/**
+    @author Shovra Das
+*/
 
 #include <iostream>
 #include <deque> 

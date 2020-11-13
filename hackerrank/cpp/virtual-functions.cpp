@@ -1,5 +1,9 @@
 // https://www.hackerrank.com/challenges/virtual-functions/problem
 
+/**
+    @author Shovra Das
+*/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>

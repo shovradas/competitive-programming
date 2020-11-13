@@ -1,5 +1,9 @@
 // Problem Link: https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
 
+/**
+    @author Shovra Das
+*/
+
 #include <iostream>
 #include <iomanip>
 using std::cin;

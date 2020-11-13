@@ -1,5 +1,9 @@
 // https://www.hackerrank.com/challenges/1d-arrays-in-c/problem
 
+/**
+    @author Shovra Das
+*/
+
 #include <stdio.h>
 #define MAX_LEN 1000
 

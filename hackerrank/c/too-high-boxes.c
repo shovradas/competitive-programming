@@ -1,5 +1,9 @@
 // https://www.hackerrank.com/challenges/too-high-boxes/problem
 
+/**
+    @author Shovra Das
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX_HEIGHT 41

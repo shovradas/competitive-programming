@@ -1,5 +1,9 @@
 // https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
 
+/**
+    @author Shovra Das
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

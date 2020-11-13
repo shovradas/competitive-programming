@@ -1,5 +1,8 @@
 // https://www.hackerrank.com/challenges/reverse-array-c/problem
 
+/**
+    @author Shovra Das
+*/
 
 #include <stdio.h>
 

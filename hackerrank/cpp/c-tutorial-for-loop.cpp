@@ -1,5 +1,9 @@
 // https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
 
+/**
+    @author Shovra Das
+*/
+
 #include <iostream>
 using std::cin;
 using std::cout;

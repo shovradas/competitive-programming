@@ -1,5 +1,9 @@
 // https://www.hackerrank.com/challenges/printing-pattern-2/problem
 
+/**
+    @author Shovra Das
+*/
+
 #include <stdio.h>
 
 int main() 

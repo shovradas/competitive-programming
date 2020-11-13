@@ -1,5 +1,9 @@
 // https://www.hackerrank.com/challenges/frequency-of-digits-1/problem
 
+/**
+    @author Shovra Das
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

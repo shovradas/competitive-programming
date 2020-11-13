@@ -1,5 +1,9 @@
 // https://www.hackerrank.com/challenges/inherited-code/problem
 
+/**
+    @author Shovra Das
+*/
+
 #include <iostream>
 #include <string>
 #include <sstream>

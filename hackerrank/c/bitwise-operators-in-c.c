@@ -1,5 +1,9 @@
 // https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem
 
+/**
+    @author Shovra Das
+*/
+
 #include <stdio.h>
 
 void calculate_the_maximum(int n, int k) {
