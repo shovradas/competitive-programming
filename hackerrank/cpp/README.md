@@ -20,8 +20,10 @@
 - `classes-objects.cpp` [problem-link](https://www.hackerrank.com/challenges/classes-objects/problem)
 - `box-it.cpp` [problem-link](https://www.hackerrank.com/challenges/box-it/problem)
 - `inherited-code.cpp` [problem-link](https://www.hackerrank.com/challenges/inherited-code/problem)
-## STL
+- `virtual-functions.cpp` [problem-link](https://www.hackerrank.com/challenges/virtual-functions/problem)
 - `file.cpp` [problem-link](link)
+## STL
+- `deque-stl.cpp` [problem-link](https://www.hackerrank.com/challenges/deque-stl/problem)
 - `file.cpp` [problem-link](link)
 - `file.cpp` [problem-link](link)
 - `file.cpp` [problem-link](link)
