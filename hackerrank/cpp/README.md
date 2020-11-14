@@ -10,9 +10,8 @@
 - `c-tutorial-pointer.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)
 - `file.cpp` [problem-link](link)
 ## Strings
-- `file.cpp` [problem-link](link)
-- `file.cpp` [problem-link](link)
-- `file.cpp` [problem-link](link)
+- `c-tutorial-stringstream.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem)
+- `c-tutorial-strings.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)
 - `file.cpp` [problem-link](link)
 ## Classes
 - `c-tutorial-struct.cpp` [problem-link](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)
@@ -21,16 +20,17 @@
 - `box-it.cpp` [problem-link](https://www.hackerrank.com/challenges/box-it/problem)
 - `inherited-code.cpp` [problem-link](https://www.hackerrank.com/challenges/inherited-code/problem)
 - `virtual-functions.cpp` [problem-link](https://www.hackerrank.com/challenges/virtual-functions/problem)
-- `file.cpp` [problem-link](link)
+- `exceptional-server.cpp` [problem-link](https://www.hackerrank.com/challenges/exceptional-server/problem)
 ## STL
 - `deque-stl.cpp` [problem-link](https://www.hackerrank.com/challenges/deque-stl/problem)
 - `file.cpp` [problem-link](link)
 - `file.cpp` [problem-link](link)
 - `file.cpp` [problem-link](link)
 ## Inheritance
-- `file.cpp` [problem-link](link)
-- `file.cpp` [problem-link](link)
-- `file.cpp` [problem-link](link)
+- `inheritance-introduction.cpp` [problem](https://www.hackerrank.com/challenges/inheritance-introduction) | [solution](/inheritance-introduction.cpp)
+- `rectangle-area.cpp` [problem-link](https://www.hackerrank.com/challenges/rectangle-area/problem)
+- `multi-level-inheritance-cpp.cpp` [problem-link](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem)
+- `accessing-inherited-functions.cpp` [problem-link](https://www.hackerrank.com/challenges/accessing-inherited-functions/problem)
 - `file.cpp` [problem-link](link)
 ## Debugging
 - `file.cpp` [problem-link](link)
