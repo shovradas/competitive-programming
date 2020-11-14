@@ -14,13 +14,13 @@
 - `c-tutorial-strings.cpp` [problem](https://www.hackerrank.com/challenges/c-tutorial-strings)
 - `file.cpp` [problem](link)
 ## Classes
-- `c-tutorial-struct.cpp` [problem](https://www.hackerrank.com/challenges/c-tutorial-struct)
-- `c-tutorial-class.cpp` [problem](https://www.hackerrank.com/challenges/c-tutorial-class)
-- `classes-objects.cpp` [problem](https://www.hackerrank.com/challenges/classes-objects)
-- `box-it.cpp` [problem](https://www.hackerrank.com/challenges/box-it)
-- `inherited-code.cpp` [problem](https://www.hackerrank.com/challenges/inherited-code)
-- `virtual-functions.cpp` [problem](https://www.hackerrank.com/challenges/virtual-functions)
-- `exceptional-server.cpp` [problem](https://www.hackerrank.com/challenges/exceptional-server)
+- [problem](https://www.hackerrank.com/challenges/c-tutorial-struct) | [solution]() `c-tutorial-struct.cpp`
+- [problem](https://www.hackerrank.com/challenges/c-tutorial-class) | [solution]() `c-tutorial-class.cpp`
+- [problem](https://www.hackerrank.com/challenges/classes-objects) | [solution]() `classes-objects.cpp`
+- [problem](https://www.hackerrank.com/challenges/box-it) | [solution]() `box-it.cpp`
+- [problem](https://www.hackerrank.com/challenges/inherited-code) | [solution]() `inherited-code.cpp`
+- [problem](https://www.hackerrank.com/challenges/virtual-functions) | [solution]() `virtual-functions.cpp`
+- [problem](https://www.hackerrank.com/challenges/exceptional-server) | [solution]() `exceptional-server.cpp`
 ## STL
 - `deque-stl.cpp` [problem](https://www.hackerrank.com/challenges/deque-stl)
 - `file.cpp` [problem](link)
