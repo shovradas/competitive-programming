@@ -14,7 +14,7 @@
 - `c-tutorial-strings.cpp` [problem](https://www.hackerrank.com/challenges/c-tutorial-strings)
 - `file.cpp` [problem](link)
 ## Classes
-- [problem](https://www.hackerrank.com/challenges/c-tutorial-struct) | [solution]() `c-tutorial-struct.cpp`
+- [problem](https://www.hackerrank.com/challenges/c-tutorial-struct) | [solution](c-tutorial-struct.cpp) `c-tutorial-struct.cpp`
 - [problem](https://www.hackerrank.com/challenges/c-tutorial-class) | [solution]() `c-tutorial-class.cpp`
 - [problem](https://www.hackerrank.com/challenges/classes-objects) | [solution]() `classes-objects.cpp`
 - [problem](https://www.hackerrank.com/challenges/box-it) | [solution]() `box-it.cpp`
