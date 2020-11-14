@@ -1,11 +1,11 @@
 # Codes
 ## Introduction
-- `welcome-to-java.java` [problem-link](https://www.hackerrank.com/challenges/welcome-to-java/problem)
-- `java-stdin-and-stdout-1.java` [problem-link](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)
-- `java-if-else.java` [problem-link](https://www.hackerrank.com/challenges/java-if-else/problem)
-- `java-stdin-stdout.java` [problem-link](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)
-- `java-output-formatting.java` [problem-link](https://www.hackerrank.com/challenges/java-output-formatting/problem)
-- `java-loops-i.java` [problem-link](https://www.hackerrank.com/challenges/java-loops-i/problem)
+- `welcome-to-java.java` [problem](https://www.hackerrank.com/challenges/welcome-to-java)
+- `java-stdin-and-stdout-1.java` [problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)
+- `java-if-else.java` [problem](https://www.hackerrank.com/challenges/java-if-else)
+- `java-stdin-stdout.java` [problem](https://www.hackerrank.com/challenges/java-stdin-stdout)
+- `java-output-formatting.java` [problem](https://www.hackerrank.com/challenges/java-output-formatting)
+- `java-loops-i.java` [problem](https://www.hackerrank.com/challenges/java-loops-i)
 ## Strings
 ## BigNumber
 ## Data Structures

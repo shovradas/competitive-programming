@@ -2,9 +2,9 @@
 
 ## Algorithms
 ### Warmup
-- `solve-me-first.py` [problem-link](https://www.hackerrank.com/challenges/solve-me-first/problem)
-- `simple-array-sum.py` [problem-link](https://www.hackerrank.com/challenges/simple-array-sum/problem)
-- `mini-max-sum.py` [problem-link](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+- `solve-me-first.py` [problem](https://www.hackerrank.com/challenges/solve-me-first)
+- `simple-array-sum.py` [problem](https://www.hackerrank.com/challenges/simple-array-sum)
+- `mini-max-sum.py` [problem](https://www.hackerrank.com/challenges/mini-max-sum)
 ### Implementation
 ### Strings
 ### Sorting
@@ -22,18 +22,18 @@
 
 ## Data Structures
 ### Arrays
-- `arrays-ds.py` [problem-link](https://www.hackerrank.com/challenges/arrays-ds/problem)
+- `arrays-ds.py` [problem](https://www.hackerrank.com/challenges/arrays-ds)
 ### Linked Lists
-- `print-the-elements-of-a-linked-list.py` [problem-link](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
-- `insert-a-node-at-the-tail-of-a-linked-list.py` [problem-link](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)
-- `insert-a-node-at-the-head-of-a-linked-list.py` [problem-link](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)
+- `print-the-elements-of-a-linked-list.py` [problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)
+- `insert-a-node-at-the-tail-of-a-linked-list.py` [problem](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list)
+- `insert-a-node-at-the-head-of-a-linked-list.py` [problem](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list)
 ### Trees
-- `tree-preorder-traversal.java` [problem-link](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)
-- `tree-postorder-traversal.java` [problem-link](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)
-- `tree-inorder-traversal.java` [problem-link](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)
-- `tree-height-of-a-binary-tree.java` [problem-link](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)
-- `tree-top-view.java` [problem-link](https://www.hackerrank.com/challenges/tree-top-view/problem)
-- `tree-level-order-traversal.java` [problem-link](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)
+- `tree-preorder-traversal.java` [problem](https://www.hackerrank.com/challenges/tree-preorder-traversal)
+- `tree-postorder-traversal.java` [problem](https://www.hackerrank.com/challenges/tree-postorder-traversal)
+- `tree-inorder-traversal.java` [problem](https://www.hackerrank.com/challenges/tree-inorder-traversal)
+- `tree-height-of-a-binary-tree.java` [problem](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree)
+- `tree-top-view.java` [problem](https://www.hackerrank.com/challenges/tree-top-view)
+- `tree-level-order-traversal.java` [problem](https://www.hackerrank.com/challenges/tree-level-order-traversal)
 ### Balanced Trees
 ### Stacks
 ### Queues

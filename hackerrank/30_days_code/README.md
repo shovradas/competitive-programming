@@ -1,2 +1,2 @@
 # Codes
-- `file.js` [problem-link](link)
+- `file.js` [problem](link)
