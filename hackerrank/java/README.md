@@ -32,7 +32,7 @@
 ## Data Structures
 - [problem](https://www.hackerrank.com/challenges/java-1d-array-introduction) | [solution](java-1d-array-introduction.java) `java-1d-array-introduction.java`
 - [problem](https://www.hackerrank.com/challenges/phone-book) | [solution](phone-book.java) `phone-book.java`
-- [problem](link) | [solution](file.java) `file.java`
+- [problem](https://www.hackerrank.com/challenges/java-generics) | [solution](java-generics.java) `java-generics.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
