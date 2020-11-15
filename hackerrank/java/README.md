@@ -1,14 +1,72 @@
 # Codes
 ## Introduction
-- `welcome-to-java.java` [problem](https://www.hackerrank.com/challenges/welcome-to-java)
-- `java-stdin-and-stdout-1.java` [problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)
-- `java-if-else.java` [problem](https://www.hackerrank.com/challenges/java-if-else)
-- `java-stdin-stdout.java` [problem](https://www.hackerrank.com/challenges/java-stdin-stdout)
-- `java-output-formatting.java` [problem](https://www.hackerrank.com/challenges/java-output-formatting)
-- `java-loops-i.java` [problem](https://www.hackerrank.com/challenges/java-loops-i)
+- [problem](https://www.hackerrank.com/challenges/welcome-to-java) | [solution](welcome-to-java.java) `welcome-to-java.java`
+- [problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1) | [solution](java-stdin-and-stdout-1.java) `java-stdin-and-stdout-1.java`
+- [problem](https://www.hackerrank.com/challenges/java-if-else) | [solution](java-if-else.java) `java-if-else.java`
+- [problem](https://www.hackerrank.com/challenges/java-stdin-stdout) | [solution](java-stdin-stdout.java) `java-stdin-stdout.java`
+- [problem](https://www.hackerrank.com/challenges/java-output-formatting) | [solution](java-output-formatting.java) `java-output-formatting.java`
+- [problem](https://www.hackerrank.com/challenges/java-loops-i) | [solution](java-loops-i.java) `java-loops-i.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
 ## Strings
+- [problem](https://www.hackerrank.com/challenges/java-strings-introduction) | [solution](java-strings-introduction.java) `java-strings-introduction.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
 ## BigNumber
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
 ## Data Structures
+- [problem](https://www.hackerrank.com/challenges/java-1d-array-introduction) | [solution](java-1d-array-introduction.java) `java-1d-array-introduction.java`
+- [problem](https://www.hackerrank.com/challenges/phone-book) | [solution](phone-book.java) `phone-book.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
 ## Object Oriented Programming
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
 ## Exception Handling
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
 ## Advanced
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
+- [problem](link) | [solution](file.java) `file.java`
