@@ -1,5 +1,8 @@
-// https://www.hackerrank.com/challenges/java-if-else/problem
-
+/**
+* problem: https://www.hackerrank.com/challenges/java-if-else
+*
+* @author  Shovra Das
+*/
 import java.io.*;
 import java.math.*;
 import java.security.*;

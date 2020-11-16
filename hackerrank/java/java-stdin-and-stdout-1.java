@@ -1,5 +1,8 @@
-// https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
-
+/**
+* problem: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1
+*
+* @author  Shovra Das
+*/
 import java.util.*;
 
 public class Solution {

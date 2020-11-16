@@ -1,5 +1,8 @@
-// https://www.hackerrank.com/challenges/welcome-to-java/problem
-
+/**
+* problem: https://www.hackerrank.com/challenges/welcome-to-java
+*
+* @author  Shovra Das
+*/
 public class Solution {
 
     public static void main(String[] args) {

@@ -1,5 +1,9 @@
 // https://www.hackerrank.com/challenges/java-strings-introduction
-
+/**
+* problem: 
+*
+* @author  Shovra Das
+*/
 import java.io.*;
 import java.util.*;
 

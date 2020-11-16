@@ -1,5 +1,8 @@
-// https://www.hackerrank.com/challenges/java-1d-array-introduction
-
+/**
+* problem: https://www.hackerrank.com/challenges/java-1d-array-introduction
+*
+* @author  Shovra Das
+*/
 import java.util.*;
 
 public class Solution {

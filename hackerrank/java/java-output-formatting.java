@@ -1,5 +1,8 @@
-// https://www.hackerrank.com/challenges/java-output-formatting/problem
-
+/**
+* problem: https://www.hackerrank.com/challenges/java-output-formatting
+*
+* @author  Shovra Das
+*/
 import java.util.Scanner;
 
 public class Solution {
