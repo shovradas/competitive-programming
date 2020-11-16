@@ -1,4 +1,4 @@
-# Codes
+## C++ Codes
 ## Introduction
 - [problem](https://www.hackerrank.com/challenges/cpp-hello-world) | [solution](cpp-hello-world.cpp) `cpp-hello-world.cpp`
 - [problem](https://www.hackerrank.com/challenges/cpp-input-and-output) | [solution](cpp-input-and-output.cpp) `cpp-input-and-output.cpp`

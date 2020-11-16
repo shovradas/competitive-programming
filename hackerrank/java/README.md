@@ -1,5 +1,5 @@
-# Codes
-## Introduction
+## Java Codes
+### Introduction
 - [problem](https://www.hackerrank.com/challenges/welcome-to-java) | [solution](welcome-to-java.java) `welcome-to-java.java`
 - [problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1) | [solution](java-stdin-and-stdout-1.java) `java-stdin-and-stdout-1.java`
 - [problem](https://www.hackerrank.com/challenges/java-if-else) | [solution](java-if-else.java) `java-if-else.java`
@@ -13,7 +13,7 @@
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
-## Strings
+### Strings
 - [problem](https://www.hackerrank.com/challenges/java-strings-introduction) | [solution](java-strings-introduction.java) `java-strings-introduction.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
@@ -25,11 +25,11 @@
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
-## BigNumber
+### BigNumber
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
-## Data Structures
+### Data Structures
 - [problem](https://www.hackerrank.com/challenges/java-1d-array-introduction) | [solution](java-1d-array-introduction.java) `java-1d-array-introduction.java`
 - [problem](https://www.hackerrank.com/challenges/phone-book) | [solution](phone-book.java) `phone-book.java`
 - [problem](https://www.hackerrank.com/challenges/java-generics) | [solution](java-generics.java) `java-generics.java`
@@ -45,7 +45,7 @@
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
-## Object Oriented Programming
+### Object Oriented Programming
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
@@ -54,10 +54,10 @@
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
-## Exception Handling
+### Exception Handling
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
-## Advanced
+### Advanced
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`

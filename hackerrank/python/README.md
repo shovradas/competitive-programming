@@ -1,4 +1,4 @@
-# Codes
+## Python Codes
 ### Introduction
 - [problem](https://www.hackerrank.com/challenges/py-hello-world) | [solution](py-hello-world.py) `py-hello-world.py`
 - [problem](https://www.hackerrank.com/challenges/py-if-else) | [solution](py-if-else.py) `py-if-else.py`
