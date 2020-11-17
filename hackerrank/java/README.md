@@ -34,7 +34,7 @@
 - [problem](https://www.hackerrank.com/challenges/phone-book) | [solution](phone-book.java) `phone-book.java`
 - [problem](https://www.hackerrank.com/challenges/java-generics) | [solution](java-generics.java) `java-generics.java`
 - [problem](https://www.hackerrank.com/challenges/java-stack) | [solution](java-stack.java) `java-stack.java`
-- [problem](link) | [solution](file.java) `file.java`
+- [problem](https://www.hackerrank.com/challenges/java-hashset) | [solution](java-hashset.java) `java-hashset.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
