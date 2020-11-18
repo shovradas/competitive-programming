@@ -1,7 +1,7 @@
 /**
 * problem: https://www.hackerrank.com/challenges/java-hashset
 *
-* @author  Shovra Das
+* @author Shovra Das
 */
 import java.io.*;
 import java.util.*;

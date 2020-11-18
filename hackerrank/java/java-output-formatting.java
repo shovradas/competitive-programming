@@ -1,7 +1,7 @@
 /**
 * problem: https://www.hackerrank.com/challenges/java-output-formatting
 *
-* @author  Shovra Das
+* @author Shovra Das
 */
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 /**
 * problem: https://www.hackerrank.com/challenges/java-1d-array-introduction
 *
-* @author  Shovra Das
+* @author Shovra Das
 */
 import java.util.*;
 

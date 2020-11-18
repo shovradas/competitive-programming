@@ -1,8 +1,7 @@
-// https://www.hackerrank.com/challenges/phone-book
 /**
-* problem: 
+* problem: https://www.hackerrank.com/challenges/phone-book
 *
-* @author  Shovra Das
+* @author Shovra Das
 */
 import java.util.*;
 import java.io.*;

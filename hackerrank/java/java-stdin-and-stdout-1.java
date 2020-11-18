@@ -1,7 +1,7 @@
 /**
 * problem: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1
 *
-* @author  Shovra Das
+* @author Shovra Das
 */
 import java.util.*;
 

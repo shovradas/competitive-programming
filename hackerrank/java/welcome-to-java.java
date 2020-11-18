@@ -1,7 +1,7 @@
 /**
 * problem: https://www.hackerrank.com/challenges/welcome-to-java
 *
-* @author  Shovra Das
+* @author Shovra Das
 */
 public class Solution {
 

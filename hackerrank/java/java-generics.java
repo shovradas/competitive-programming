@@ -1,7 +1,7 @@
 /**
 * problem: https://www.hackerrank.com/challenges/java-generics
 *
-* @author  Shovra Das
+* @author Shovra Das
 */
 import java.io.IOException;
 import java.lang.reflect.Method;

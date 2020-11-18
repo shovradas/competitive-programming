@@ -1,7 +1,7 @@
 /**
 * problem: https://www.hackerrank.com/challenges/java-loops-i
 *
-* @author  Shovra Das
+* @author Shovra Das
 */
 import java.io.*;
 import java.math.*;
