@@ -21,6 +21,7 @@
 - [problem](https://www.hackerrank.com/challenges/inherited-code) | [solution](inherited-code.cpp) `inherited-code.cpp`
 - [problem](https://www.hackerrank.com/challenges/virtual-functions) | [solution](virtual-functions.cpp) `virtual-functions.cpp`
 - [problem](https://www.hackerrank.com/challenges/exceptional-server) | [solution](exceptional-server.cpp) `exceptional-server.cpp`
+- [problem](https://www.hackerrank.com/challenges/abstract-classes-polymorphism) | [solution](abstract-classes-polymorphism.cpp) `abstract-classes-polymorphism.cpp`
 ## STL
 - [problem](https://www.hackerrank.com/challenges/deque-stl) | [solution](deque-stl.cpp) `deque-stl.cpp`
 - [problem](https://www.hackerrank.com/challenges/cpp-sets) | [solution](cpp-sets.cpp) `cpp-sets.cpp`
