@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/messages-order
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/messages-order
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 #include <algorithm>
 #include <vector>

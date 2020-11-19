@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/accessing-inherited-functions/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/accessing-inherited-functions
+*
+* @author Shovra Das    
 */
-
 #include<iostream>
 
 using namespace std;

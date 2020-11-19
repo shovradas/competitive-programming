@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/c-tutorial-strings/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/c-tutorial-strings
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 #include <string>
 using namespace std;

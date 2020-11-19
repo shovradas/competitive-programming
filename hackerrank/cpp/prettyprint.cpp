@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/prettyprint
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/prettyprint
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 #include <iomanip> 
 using namespace std;

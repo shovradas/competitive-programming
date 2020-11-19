@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/conditional-statements-in-c/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/conditional-statements-in-c
+*
+* @author Shovra Das    
 */
-
 #include <assert.h>
 #include <limits.h>
 #include <math.h>

@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/cpp-exception-handling
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/cpp-exception-handling
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 #include <stdexcept>
 using namespace std;

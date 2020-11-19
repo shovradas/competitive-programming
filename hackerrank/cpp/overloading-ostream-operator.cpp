@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/overloading-ostream-operator
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/overloading-ostream-operator
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 using namespace std;
 

@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/hello-world-c/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/hello-world-c
+*
+* @author Shovra Das    
 */
-
 #include <stdio.h>
 
 int main() 

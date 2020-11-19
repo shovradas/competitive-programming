@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/inheritance-introduction/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/inheritance-introduction
+*
+* @author Shovra Das    
 */
-
 #include <cmath>
 #include <cstdio>
 #include <vector>

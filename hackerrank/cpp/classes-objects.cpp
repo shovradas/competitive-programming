@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/classes-objects/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/classes-objects
+*
+* @author Shovra Das    
 */
-
 #include <cmath>
 #include <cstdio>
 #include <vector>

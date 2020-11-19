@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/rectangle-area/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/rectangle-area
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 using namespace std;
 

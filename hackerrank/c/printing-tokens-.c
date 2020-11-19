@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/printing-tokens-/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/printing-tokens-
+*
+* @author Shovra Das    
 */
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>

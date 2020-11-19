@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/c-tutorial-class/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/c-tutorial-class
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 #include <sstream>
 using namespace std;

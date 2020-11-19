@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/cpp-input-and-output/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/cpp-input-and-output
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 using namespace std;
 

@@ -1,9 +1,8 @@
-// Problem Link: https://www.hackerrank.com/challenges/c-tutorial-functions/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/c-tutorial-functions
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 #include <cstdio>
 using namespace std;

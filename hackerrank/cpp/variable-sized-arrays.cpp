@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/variable-sized-arrays
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/variable-sized-arrays
+*
+* @author Shovra Das    
 */
-
 #include <vector>
 #include <iostream>
 using namespace std;

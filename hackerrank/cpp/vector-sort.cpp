@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/vector-sort
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/vector-sort
+*
+* @author Shovra Das    
 */
-
 #include <vector>
 #include <iostream>
 #include <algorithm>

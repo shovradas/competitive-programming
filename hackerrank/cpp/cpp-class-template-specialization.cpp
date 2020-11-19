@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/cpp-class-template-specialization
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/cpp-class-template-specialization
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 using namespace std;
 enum class Fruit { apple, orange, pear };

@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/hotel-prices
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/hotel-prices
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 #include <vector>
 

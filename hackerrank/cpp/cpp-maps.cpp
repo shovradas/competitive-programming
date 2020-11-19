@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/cpp-maps
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/cpp-maps
+*
+* @author Shovra Das    
 */
-
 #include<iostream>
 #include<map>
 using namespace std;

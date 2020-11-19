@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/cpp-sets
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/cpp-sets
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 #include <set>
 using namespace std;

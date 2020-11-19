@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/overload-operators
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/overload-operators
+*
+* @author Shovra Das    
 */
-
 #include<iostream>
 
 using namespace std;

@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/pointer-in-c/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/pointer-in-c
+*
+* @author Shovra Das    
 */
-
 #include <stdio.h>
 
 void update(int *a,int *b) {

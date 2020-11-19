@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/recursion-in-c/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/recursion-in-c/problem
+*
+* @author Shovra Das    
 */
-
 #include <stdio.h>
 
 int find_nth_term(int n, int a, int b, int c) {

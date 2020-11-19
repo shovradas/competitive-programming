@@ -6,7 +6,7 @@
 - [problem](https://www.hackerrank.com/challenges/java-stdin-stdout) | [solution](java-stdin-stdout.java) `java-stdin-stdout.java`
 - [problem](https://www.hackerrank.com/challenges/java-output-formatting) | [solution](java-output-formatting.java) `java-output-formatting.java`
 - [problem](https://www.hackerrank.com/challenges/java-loops-i) | [solution](java-loops-i.java) `java-loops-i.java`
-- [problem](link) | [solution](file.java) `file.java`
+- [problem](https://www.hackerrank.com/challenges/java-end-of-file) | [solution](java-end-of-file.java) `java-end-of-file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`

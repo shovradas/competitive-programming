@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/vector-erase
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/vector-erase
+*
+* @author Shovra Das    
 */
-
 #include <vector>
 #include <iostream>
 using namespace std;

@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/c-tutorial-stringstream
+*
+* @author Shovra Das    
 */
-
 #include <sstream>
 #include <vector>
 #include <iostream>

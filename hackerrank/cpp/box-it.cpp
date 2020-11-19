@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/box-it/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/box-it
+*
+* @author Shovra Das    
 */
-
 #include<bits/stdc++.h>
 
 using namespace std;

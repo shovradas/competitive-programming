@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/playing-with-characters/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/playing-with-characters
+*
+* @author Shovra Das    
 */
-
 #include <stdio.h>
 #define MAX_LEN 99
 

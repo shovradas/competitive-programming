@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/deque-stl/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/deque-stl
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 #include <deque> 
 using namespace std;

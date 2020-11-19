@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/multi-level-inheritance-cpp
+*
+* @author Shovra Das    
 */
-
 #include <cmath>
 #include <cstdio>
 #include <vector>

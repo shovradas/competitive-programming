@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/c-class-templates
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/c-class-templates
+*
+* @author Shovra Das
 */
-
 #include <cmath>
 #include <cstdio>
 #include <vector>

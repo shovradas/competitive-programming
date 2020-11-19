@@ -1,9 +1,8 @@
-// Problem Link: https://www.hackerrank.com/challenges/arrays-introduction/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/arrays-introduction
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 using namespace std;
 

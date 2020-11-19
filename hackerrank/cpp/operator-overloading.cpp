@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/operator-overloading
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/operator-overloading
+*
+* @author Shovra Das    
 */
-
 #include <cmath>
 #include <cstdio>
 #include <vector>

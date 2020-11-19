@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/c-tutorial-pointer/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/c-tutorial-pointer
+*
+* @author Shovra Das    
 */
-
 #include<iostream>
 #include<cmath>
 using std::cin;

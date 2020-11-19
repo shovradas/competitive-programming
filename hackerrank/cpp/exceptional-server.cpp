@@ -1,9 +1,8 @@
-// https://www.hackerrank.com/challenges/exceptional-server/problem
-
 /**
-    @author Shovra Das
+* problem: https://www.hackerrank.com/challenges/exceptional-server
+*
+* @author Shovra Das    
 */
-
 #include <iostream>
 #include <exception>
 #include <string>
