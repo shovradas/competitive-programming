@@ -12,7 +12,7 @@
 ## Strings
 - [problem](https://www.hackerrank.com/challenges/c-tutorial-stringstream) | [solution](c-tutorial-stringstream.cpp) `c-tutorial-stringstream.cpp`
 - [problem](https://www.hackerrank.com/challenges/c-tutorial-strings) | [solution](c-tutorial-strings.cpp) `c-tutorial-strings.cpp`
-- [problem](link) | [solution](file.cpp) `file.cpp`
+- [problem](https://www.hackerrank.com/challenges/attribute-parser) | [solution](attribute-parser.cpp) `attribute-parser.cpp`
 ## Classes
 - [problem](https://www.hackerrank.com/challenges/c-tutorial-struct) | [solution](c-tutorial-struct.cpp) `c-tutorial-struct.cpp`
 - [problem](https://www.hackerrank.com/challenges/c-tutorial-class) | [solution](c-tutorial-class.cpp) `c-tutorial-class.cpp`
