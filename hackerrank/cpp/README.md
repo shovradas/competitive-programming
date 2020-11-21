@@ -47,6 +47,6 @@
 - [problem](https://www.hackerrank.com/challenges/operator-overloading) | [solution](operator-overloading.cpp) `operator-overloading.cpp`
 - [problem](https://www.hackerrank.com/challenges/cpp-class-template-specialization) | [solution](cpp-class-template-specialization.cpp) `cpp-class-template-specialization.cpp`
 - [problem](https://www.hackerrank.com/challenges/attending-workshops) | [solution](attending-workshops.cpp) `attending-workshops.cpp`
-- [problem](link) | [solution](file.cpp) `file.cpp`
+- [problem](https://www.hackerrank.com/challenges/cpp-variadics) | [solution](cpp-variadics.cpp) `cpp-variadics.cpp`
 - [problem](link) | [solution](file.cpp) `file.cpp`
 - [problem](link) | [solution](file.cpp) `file.cpp`
