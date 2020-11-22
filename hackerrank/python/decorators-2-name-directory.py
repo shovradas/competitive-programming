@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/decorators-2-name-directory/problem
 
+__author__ = "Shovra Das"
+
 
 def person_lister(f):
     def inner(people):

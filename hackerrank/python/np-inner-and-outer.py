@@ -2,6 +2,8 @@
 
 import numpy, os
 
+__author__ = "Shovra Das"
+
 a = numpy.array(input().split(), int)
 b = numpy.array(input().split(), int)
 

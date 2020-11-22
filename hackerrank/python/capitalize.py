@@ -3,6 +3,7 @@
 
 import os
 
+__author__ = "Shovra Das"
 
 def solve(s):
 

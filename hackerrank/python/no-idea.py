@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/no-idea/problem
 
+__author__ = "Shovra Das"
+
 l = lambda: map(int, input().split(' '))
 
 n, m = l()

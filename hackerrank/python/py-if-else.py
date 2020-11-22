@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/py-if-else/problem
 
+__author__ = "Shovra Das"
+
 
 if __name__ == '__main__':
     n = int(input().strip())

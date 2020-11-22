@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/swap-case/problem
 
+__author__ = "Shovra Das"
+
 def swap_case(s):
     str_out = ''
     for c in s:

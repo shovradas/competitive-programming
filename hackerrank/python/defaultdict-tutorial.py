@@ -2,6 +2,8 @@
 
 from collections import defaultdict
 
+__author__ = "Shovra Das"
+
 n, m = map(int, input().strip().split(' '))
 
 word_dict = defaultdict(lambda: -1)

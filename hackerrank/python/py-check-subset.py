@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/py-check-subset/problem
 
+__author__ = "Shovra Das"
+
 
 t = int(input().strip())
 

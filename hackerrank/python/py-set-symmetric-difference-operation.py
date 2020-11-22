@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem
 
+__author__ = "Shovra Das"
+
 
 n1 = int(input().strip())
 s1 = set(input().strip().split(' '))

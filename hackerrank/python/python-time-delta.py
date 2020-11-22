@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/python-time-delta/problem
 
+__author__ = "Shovra Das"
+
 import math
 import os
 import random

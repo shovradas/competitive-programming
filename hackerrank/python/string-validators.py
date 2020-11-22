@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/string-validators/problem
 
+__author__ = "Shovra Das"
+
 
 if __name__ == '__main__':
     s = input()

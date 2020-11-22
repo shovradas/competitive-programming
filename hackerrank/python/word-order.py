@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/word-order/problem
 
+__author__ = "Shovra Das"
+
 n = int(input().strip())
 
 word_counts = {}

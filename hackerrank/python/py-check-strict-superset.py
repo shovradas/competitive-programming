@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/py-check-strict-superset/problem
 
+__author__ = "Shovra Das"
+
 a = set(map(int, input().split(' ')))
 n = int(input())
 

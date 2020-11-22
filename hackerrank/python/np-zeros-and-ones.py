@@ -2,6 +2,8 @@
 
 import numpy
 
+__author__ = "Shovra Das"
+
 dimensions = tuple(map(int, input().split()))
 
 print(numpy.zeros(dimensions, dtype=numpy.int))

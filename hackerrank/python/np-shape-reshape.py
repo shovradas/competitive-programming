@@ -2,6 +2,8 @@
 
 import numpy
 
+__author__ = "Shovra Das"
+
 np_array = numpy.array(input().split(), int)
 np_2d_array = numpy.reshape(np_array, (3,3))
 

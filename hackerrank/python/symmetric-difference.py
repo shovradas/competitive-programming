@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/symmetric-difference/problem
 
+__author__ = "Shovra Das"
+
 input()
 a = set(map(int, input().split(' ')))
 input()

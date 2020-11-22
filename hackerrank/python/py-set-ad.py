@@ -1,5 +1,6 @@
 # https://www.hackerrank.com/challenges/py-set-add/problem
 
+__author__ = "Shovra Das"
 
 n = int(input().strip())
 

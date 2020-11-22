@@ -3,6 +3,8 @@
 import email.utils
 import re
 
+__author__ = "Shovra Das"
+
 n = int(input())
 
 pattern = re.compile(r'^[a-zA-Z][a-zA-Z0-9-_.]*@[a-zA-Z]+\.[a-zA-Z]{1,3}$')

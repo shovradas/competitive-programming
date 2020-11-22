@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem
 
+__author__ = "Shovra Das"
+
 n = int(input())
 s = set(map(int, input().split()))
 

@@ -2,6 +2,8 @@
 
 from html.parser import HTMLParser
 
+__author__ = "Shovra Das"
+
 class MyHTMLParser(HTMLParser):
     def print_attrs_if_any(self, attrs):
         if attrs:

@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem
 
+__author__ = "Shovra Das"
+
 
 import xml.etree.ElementTree as etree
 

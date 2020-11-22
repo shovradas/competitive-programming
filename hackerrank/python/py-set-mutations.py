@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/py-set-mutations/problem
 
+__author__ = "Shovra Das"
+
 len_a = int(input())
 a = set(map(int, input().split(' ')))
 n = int(input())

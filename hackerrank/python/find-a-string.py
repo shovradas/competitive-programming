@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/find-a-string/problem
 
+__author__ = "Shovra Das"
+
 def count_substring(string, sub_string):
     count = 0
     len_sub = len(sub_string)

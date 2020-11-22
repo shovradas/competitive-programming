@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/designer-door-mat/problem
 
+__author__ = "Shovra Das"
+
 n, m = list(map(int, input().split(' ')))
 format_char = '.|.'
 

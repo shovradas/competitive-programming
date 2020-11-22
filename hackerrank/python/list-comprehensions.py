@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/list-comprehensions/problem
 
+__author__ = "Shovra Das"
+
 if __name__ == '__main__':
     x = int(input())
     y = int(input())

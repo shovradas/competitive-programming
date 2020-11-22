@@ -1,6 +1,8 @@
 # Problem Link: https://www.hackerrank.com/challenges/xml-1-find-the-score/problem
 
 
+__author__ = "Shovra Das"
+
 import xml.etree.ElementTree as etree
 
 def get_attr_number(node):

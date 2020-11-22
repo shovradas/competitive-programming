@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/write-a-function/problem
 
+__author__ = "Shovra Das"
+
 def is_leap(year):
     leap = False
     

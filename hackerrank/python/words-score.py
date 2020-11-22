@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/words-score/problem
 
+__author__ = "Shovra Das"
+
 def is_vowel(letter):
     return letter in ['a', 'e', 'i', 'o', 'u', 'y']
 

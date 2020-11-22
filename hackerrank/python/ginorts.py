@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/ginorts/problem
 
+__author__ = "Shovra Das"
+
 string = sorted(input())
 
 lower, upper, odd, even = ['']*4

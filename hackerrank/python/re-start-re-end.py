@@ -2,6 +2,8 @@
 
 import re
 
+__author__ = "Shovra Das"
+
 s, k = input(), input()
 
 pattern = re.compile(k)

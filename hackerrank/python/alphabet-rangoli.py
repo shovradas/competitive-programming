@@ -1,4 +1,6 @@
-# Problem Link: https://www.hackerrank.com/challenges/alphabet-rangoli/problem
+""" Problem Link: https://www.hackerrank.com/challenges/alphabet-rangoli """
+
+__author__ = "Shovra Das"
 
 def print_rangoli(size):
     w = size + 3*(size-1)

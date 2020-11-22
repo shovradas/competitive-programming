@@ -2,6 +2,8 @@
 
 import re
 
+__author__ = "Shovra Das"
+
 t = int(input())
 
 pattern = re.compile(r"^[+-]?[0-9]*\.[0-9]+$")

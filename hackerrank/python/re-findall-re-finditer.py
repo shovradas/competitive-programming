@@ -2,6 +2,8 @@
 
 import re, os
 
+__author__ = "Shovra Das"
+
 v = 'aeiouAEIOU'
 c = 'qwrtypsdfghjklzxcvbnmQWRTYPSDFGHJKLZXCVBNM'
 

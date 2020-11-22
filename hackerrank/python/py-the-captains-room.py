@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/py-the-captains-room/problem
 
+__author__ = "Shovra Das"
+
 k, allocation = int(input()), input().split()
 
 rooms, group_rooms = set(), set()

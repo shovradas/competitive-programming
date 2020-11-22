@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/text-alignment/problem
 
+__author__ = "Shovra Das"
+
 thickness = int(input()) #This must be an odd number
 c = 'H'
 

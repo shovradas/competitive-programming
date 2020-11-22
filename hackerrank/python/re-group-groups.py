@@ -2,6 +2,8 @@
 
 import re
 
+__author__ = "Shovra Das"
+
 string = input()
 pattern = re.compile(r'([a-zA-Z0-9])\1+')
 match = pattern.search(string)

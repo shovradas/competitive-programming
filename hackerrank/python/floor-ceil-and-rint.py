@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem
 
+__author__ = "Shovra Das"
+
 import numpy, os
 
 a = numpy.array(input().split(), float)

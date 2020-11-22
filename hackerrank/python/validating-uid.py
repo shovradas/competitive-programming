@@ -2,6 +2,8 @@
 
 import re
 
+__author__ = "Shovra Das"
+
 n = int(input())
 
 patterns = {

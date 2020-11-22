@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/python-mutations/problem
 
+__author__ = "Shovra Das"
+
 def mutate_string(string, position, character):
     return string[:position] + character + string[position+1:]
 

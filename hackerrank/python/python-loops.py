@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/python-loops/problem
 
+__author__ = "Shovra Das"
+
 if __name__ == '__main__':
     n = int(input())
 

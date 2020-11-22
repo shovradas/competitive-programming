@@ -2,6 +2,8 @@
 
 import math
 
+__author__ = "Shovra Das"
+
 class Complex(object):
     def __init__(self, real, imaginary):
         self.real = real

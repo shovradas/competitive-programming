@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/python-string-formatting/problem
 
+__author__ = "Shovra Das"
+
 
 def print_formatted(number):
     w = len('{:b}'.format(number))

@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/python-string-split-and-join/problem
 
+__author__ = "Shovra Das"
+
 
 def split_and_join(line):
     return '-'.join(line.split(' '))

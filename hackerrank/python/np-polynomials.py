@@ -2,6 +2,8 @@
 
 import numpy
 
+__author__ = "Shovra Das"
+
 array = numpy.array(input().split(), float)
 x = float(input())
 

@@ -3,6 +3,8 @@
 import os
 from itertools import combinations
 
+__author__ = "Shovra Das"
+
 string, r = input().split()
 for k in range(1, int(r)+1):
     cmbs = list(combinations(''.join(sorted(string)), k))

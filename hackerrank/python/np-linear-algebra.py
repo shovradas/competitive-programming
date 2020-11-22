@@ -2,6 +2,8 @@
 
 import numpy
 
+__author__ = "Shovra Das"
+
 n = int(input())
 array = numpy.array([input().split() for _ in range(n)], float)
 

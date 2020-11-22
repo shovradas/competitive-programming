@@ -2,6 +2,8 @@
 
 from itertools import product
 
+__author__ = "Shovra Das"
+
 k, m = map(int, input().split())
 n = [list(map(int, input().split()[1:])) for _ in range(k)]
 

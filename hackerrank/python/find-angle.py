@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/find-angle/problem
 
+__author__ = "Shovra Das"
+
 import math
 
 ab = float(input())

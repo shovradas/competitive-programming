@@ -1,5 +1,7 @@
 # https://www.hackerrank.com/challenges/text-wrap/problem
 
+__author__ = "Shovra Das"
+
 import textwrap
 
 def wrap(string, max_width):

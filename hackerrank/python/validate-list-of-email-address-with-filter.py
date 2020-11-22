@@ -2,6 +2,8 @@
 
 import re
 
+__author__ = "Shovra Das"
+
 pattern = re.compile(r'^[a-zA-Z0-9_-]+@[a-zA-Z0-9]+[.].{1,3}$')
 
 def fun(s):

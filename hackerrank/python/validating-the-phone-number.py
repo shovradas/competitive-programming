@@ -2,6 +2,8 @@
 
 import re
 
+__author__ = "Shovra Das"
+
 n = int(input())
 
 pattern = re.compile(r'^[7-9][0-9]{9}$')

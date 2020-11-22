@@ -2,6 +2,8 @@
 
 import numpy
 
+__author__ = "Shovra Das"
+
 def arrays(arr):
     narr = numpy.array(arr, float)
     return narr[::-1]

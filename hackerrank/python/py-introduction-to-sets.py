@@ -3,6 +3,8 @@
 
 from statistics import mean
 
+__author__ = "Shovra Das"
+
 def average(array):
     # your code goes here
     distinct_heights = set(array)

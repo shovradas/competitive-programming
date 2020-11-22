@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/the-minion-game/problem
 
+__author__ = "Shovra Das"
+
 VOWELS = ['A', 'E', 'I', 'O', 'U']
 
 def minion_game(string):

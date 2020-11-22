@@ -1,4 +1,6 @@
-# https://www.hackerrank.com/challenges/any-or-all/problem
+""" https://www.hackerrank.com/challenges/any-or-all """
+
+__author__ = "Shovra Das"
 
 n = int(input())
 nums = input().strip().split(" ")

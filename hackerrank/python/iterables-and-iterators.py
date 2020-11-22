@@ -2,6 +2,8 @@
 
 from itertools import combinations
 
+__author__ = "Shovra Das"
+
 n, l, k = int(input()), input().split(), int(input())
 
 combs = list(combinations(l, k))

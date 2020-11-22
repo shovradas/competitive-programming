@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/default-arguments/problem
 
+__author__ = "Shovra Das"
+
 
 class EvenStream(object):
     def __init__(self):

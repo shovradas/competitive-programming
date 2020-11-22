@@ -2,6 +2,8 @@
 
 from collections import deque
 
+__author__ = "Shovra Das"
+
 n = int(input().strip())
 d = deque()
 

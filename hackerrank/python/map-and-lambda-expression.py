@@ -1,5 +1,7 @@
 # Problem Link: https://www.hackerrank.com/challenges/map-and-lambda-expression/problem
 
+__author__ = "Shovra Das"
+
 cube = lambda x: x*x*x
 
 def fibonacci(n):    
