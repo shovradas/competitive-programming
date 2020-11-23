@@ -7,7 +7,7 @@
 - [problem](https://www.hackerrank.com/challenges/java-output-formatting) | [solution](java-output-formatting.java) `java-output-formatting.java`
 - [problem](https://www.hackerrank.com/challenges/java-loops-i) | [solution](java-loops-i.java) `java-loops-i.java`
 - [problem](https://www.hackerrank.com/challenges/java-end-of-file) | [solution](java-end-of-file.java) `java-end-of-file.java`
-- [problem](link) | [solution](file.java) `file.java`
+- [problem](https://www.hackerrank.com/challenges/java-static-initializer-block) | [solution](java-static-initializer-block.java) `java-static-initializer-block.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
