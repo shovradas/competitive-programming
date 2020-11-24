@@ -1,4 +1,4 @@
-""" Problem Link: https://www.hackerrank.com/challenges/alphabet-rangoli """
+""" problem: https://www.hackerrank.com/challenges/alphabet-rangoli """
 
 __author__ = "Shovra Das"
 
