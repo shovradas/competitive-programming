@@ -1,6 +1,10 @@
-# https://www.hackerrank.com/challenges/arrays-ds/problem
+#!/bin/python3
 
 import os
+
+""" problem: https://www.hackerrank.com/challenges/arrays-ds """
+
+__author__ = "Shovra Das"
 
 def reverseArray(a):
     return a[::-1]

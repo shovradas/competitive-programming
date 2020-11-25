@@ -1,4 +1,8 @@
-# Problem Link: https://www.hackerrank.com/challenges/solve-me-first/problem
+#!/bin/python3
+
+""" problem: https://www.hackerrank.com/challenges/solve-me-first """
+
+__author__ = "Shovra Das"
 
 def solveMeFirst(a,b):
     return a+b

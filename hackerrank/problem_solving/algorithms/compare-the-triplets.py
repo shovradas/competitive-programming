@@ -1,5 +1,9 @@
 #!/bin/python3
 
+""" problem: https://www.hackerrank.com/challenges/compare-the-triplets """
+
+__author__ = "Shovra Das"
+
 def compareTriplets(a, b):
     score_alice = score_bob = 0
     for sa, sb in zip(a, b):

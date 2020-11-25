@@ -1,7 +1,10 @@
-# https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
+#!/bin/python3
 
 import os
 
+""" problem: https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list """
+
+__author__ = "Shovra Das"
 
 class SinglyLinkedListNode:
     def __init__(self, node_data):

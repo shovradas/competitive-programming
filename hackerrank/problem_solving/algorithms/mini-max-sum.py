@@ -1,4 +1,8 @@
-# https://www.hackerrank.com/challenges/mini-max-sum/problem
+#!/bin/python3
+
+""" problem: https://www.hackerrank.com/challenges/mini-max-sum """
+
+__author__ = "Shovra Das"
 
 def miniMaxSum(arr):
     minimum = maximum = arr[0]

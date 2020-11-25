@@ -10,6 +10,7 @@
 ### Implementation
 - [problem](link) | [solution](file.py) `title`
 ### Strings
+- [problem](https://www.hackerrank.com/challenges/camelcase) | [solution](camelcase.py) `CamelCase`
 - [problem](link) | [solution](file.py) `title`
 ### Sorting
 - [problem](link) | [solution](file.py) `title`

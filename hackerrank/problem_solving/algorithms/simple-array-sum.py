@@ -1,6 +1,10 @@
-# Problem Link: https://www.hackerrank.com/challenges/simple-array-sum/problem
+#!/bin/python3
 
 import os
+
+""" problem: https://www.hackerrank.com/challenges/simple-array-sum """
+
+__author__ = "Shovra Das"
 
 def simpleArraySum(ar, ar_count):
     sum_ = 0

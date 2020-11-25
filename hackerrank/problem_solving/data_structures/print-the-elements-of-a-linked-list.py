@@ -1,10 +1,8 @@
-# https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
+#!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
+""" problem: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list """
+
+__author__ = "Shovra Das"
 
 class SinglyLinkedListNode:
     def __init__(self, node_data):

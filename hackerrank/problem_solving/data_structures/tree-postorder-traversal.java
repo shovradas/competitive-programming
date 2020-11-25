@@ -1,5 +1,8 @@
-// https://www.hackerrank.com/challenges/tree-postorder-traversal/problem
-
+/**
+* problem: https://www.hackerrank.com/challenges/tree-postorder-traversal
+*
+* @author Shovra Das
+*/
 import java.util.*;
 import java.io.*;
 
