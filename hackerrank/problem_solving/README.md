@@ -7,32 +7,48 @@
 - [problem](https://www.hackerrank.com/challenges/mini-max-sum) | [solution](mini-max-sum.py) `Mini-Max Sum`
 - [problem](https://www.hackerrank.com/challenges/compare-the-triplets) | [solution](compare-the-triplets.py) `Compare the Triplets`
 - [problem](https://www.hackerrank.com/challenges/diagonal-difference) | [solution](diagonal-difference.py) `Diagonal Difference`
+- [problem](https://www.hackerrank.com/challenges/time-conversion) | [solution](time-conversion.py) `Time Conversion`
+- [problem](link) | [solution](file.py) `title`
+- [problem](link) | [solution](file.py) `title`
 ### Implementation
+- [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### Strings
 - [problem](https://www.hackerrank.com/challenges/camelcase) | [solution](camelcase.py) `CamelCase`
 - [problem](link) | [solution](file.py) `title`
+- [problem](link) | [solution](file.py) `title`
 ### Sorting
+- [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### Search
 - [problem](link) | [solution](file.py) `title`
+- [problem](link) | [solution](file.py) `title`
 ### Graph Theory
+- [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### Greedy
 - [problem](link) | [solution](file.py) `title`
+- [problem](link) | [solution](file.py) `title`
 ### Dynamic Programming
+- [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### Constructive Algorithms
 - [problem](link) | [solution](file.py) `title`
+- [problem](link) | [solution](file.py) `title`
 ### Bit Manipulation
+- [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### Recursion
 - [problem](link) | [solution](file.py) `title`
+- [problem](link) | [solution](file.py) `title`
 ### Game Theory
+- [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### NP Complete
 - [problem](link) | [solution](file.py) `title`
+- [problem](link) | [solution](file.py) `title`
 ### Debugging
+- [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 
 
