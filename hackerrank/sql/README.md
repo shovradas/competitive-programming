@@ -8,7 +8,6 @@
 - [problem](https://www.hackerrank.com/challenges/japanese-cities-attributes) | [solution](japanese-cities-attributes.sql) `Japanese Cities' Attributes`
 - [problem](https://www.hackerrank.com/challenges/japanese-cities-name) | [solution](japanese-cities-name.sql) `Japanese Cities' Names`
 - [problem](https://www.hackerrank.com/challenges/weather-observation-station-1) | [solution](weather-observation-station-1.sql) `Weather Observation Station 1`
-- [problem](link) | [solution](file.sql) `Weather Observation Station 2`
 - [problem](https://www.hackerrank.com/challenges/weather-observation-station-3) | [solution](weather-observation-station-3.sql) `Weather Observation Station 3`
 - [problem](https://www.hackerrank.com/challenges/weather-observation-station-4) | [solution](weather-observation-station-4.sql) `Weather Observation Station 4`
 - [problem](link) | [solution](file.sql) `title`
@@ -20,6 +19,7 @@
 - [problem](link) | [solution](file.sql) `title`
 - [problem](link) | [solution](file.sql) `title`
 ## Aggregation
+- [problem](https://www.hackerrank.com/challenges/weather-observation-station-2) | [solution](weather-observation-station-2.sql) `Weather Observation Station 2`
 - [problem](link) | [solution](file.sql) `title`
 - [problem](link) | [solution](file.sql) `title`
 ## Basic Join
