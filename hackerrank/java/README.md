@@ -14,10 +14,10 @@
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 ### Strings
-- [problem](https://www.hackerrank.com/challenges/java-strings-introduction) | [solution](java-strings-introduction.java) `java-strings-introduction.java`
-- [problem](https://www.hackerrank.com/challenges/java-substring) | [solution](java-substring.java) `java-substring.java`
-- [problem](https://www.hackerrank.com/challenges/java-string-reverse) | [solution](java-string-reverse.java) `java-string-reverse.java`
-- [problem](link) | [solution](file.java) `file.java`
+- [problem](https://www.hackerrank.com/challenges/java-strings-introduction) | [solution](java-strings-introduction.java) `Java Strings Introduction`
+- [problem](https://www.hackerrank.com/challenges/java-substring) | [solution](java-substring.java) `Java Substring`
+- [problem](https://www.hackerrank.com/challenges/java-string-reverse) | [solution](java-string-reverse.java) `Java String Reverse`
+- [problem](https://www.hackerrank.com/challenges/java-string-compare) | [solution](java-string-compare.java) `Java Substring Comparisons`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`

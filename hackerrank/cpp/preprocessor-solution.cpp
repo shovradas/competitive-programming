@@ -17,7 +17,7 @@
 // FUNCTION(minimum, <) is replaced with void minimum(int& m, int n){ if(n < m) m = n; }
 // FUNCTION(maximum, >) is replaced with void maximum(int& m, int n){ if(n > m) m = n; }
 
-#define toStr(whatever) #whatever  // #whatever means double quoted "whaterver"
+#define toStr(whatever) #whatever  // #whatever means double quoted "whatever"
 
 #include <iostream>
 #include <vector>
