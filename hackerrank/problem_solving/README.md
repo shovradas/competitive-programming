@@ -9,7 +9,7 @@
 - [problem](https://www.hackerrank.com/challenges/diagonal-difference) | [solution](diagonal-difference.py) `Diagonal Difference`
 - [problem](https://www.hackerrank.com/challenges/time-conversion) | [solution](time-conversion.py) `Time Conversion`
 - [problem](https://www.hackerrank.com/challenges/a-very-big-sum) | [solution](a-very-big-sum.py) `A Very Big Sum`
-- [problem](link) | [solution](file.py) `title`
+- [problem](https://www.hackerrank.com/challenges/plus-minus) | [solution](plus-minus.py) `Plus Minus`
 - [problem](link) | [solution](file.py) `title`
 ### Implementation
 - [problem](link) | [solution](file.py) `title`
