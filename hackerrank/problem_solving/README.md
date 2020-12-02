@@ -12,6 +12,7 @@
 - [problem](https://www.hackerrank.com/challenges/plus-minus) | [solution](plus-minus.py) `Plus Minus`
 - [problem](link) | [solution](file.py) `title`
 ### Implementation
+- [problem](https://www.hackerrank.com/challenges/matrix-rotation-algo) | [solution](matrix-rotation-algo.py) `Matrix Layer Rotation`
 - [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### Strings
