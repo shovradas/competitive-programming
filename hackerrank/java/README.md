@@ -36,7 +36,7 @@
 - [problem](https://www.hackerrank.com/challenges/java-stack) | [solution](java-stack.java) `java-stack.java`
 - [problem](https://www.hackerrank.com/challenges/java-hashset) | [solution](java-hashset.java) `java-hashset.java`
 - [problem](https://www.hackerrank.com/challenges/java-list) | [solution](java-list.java) `java-list.java`
-- [problem](link) | [solution](file.java) `file.java`
+- [problem](https://www.hackerrank.com/challenges/java-comparator) | [solution](java-comparator.java) `java-comparator.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
 - [problem](link) | [solution](file.java) `file.java`
