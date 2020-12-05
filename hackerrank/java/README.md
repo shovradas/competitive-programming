@@ -58,9 +58,9 @@
 - [problem](link) | [solution](file.java) `title`
 - [problem](link) | [solution](file.java) `title`
 ### Advanced
-- [problem](https://www.hackerrank.com/challenges/java-md5) | [solution](java-md5.java) `Java MD5`
 - [problem](https://www.hackerrank.com/challenges/java-lambda-expressions) | [solution](java-lambda-expressions.java) `Java Lambda Expressions`
-- [problem](link) | [solution](file.java) `title`
+- [problem](https://www.hackerrank.com/challenges/java-md5) | [solution](java-md5.java) `Java MD5`
+- [problem](https://www.hackerrank.com/challenges/sha-256) | [solution](sha-256.java) `Java SHA-256`
 - [problem](link) | [solution](file.java) `title`
 - [problem](link) | [solution](file.java) `title`
 - [problem](link) | [solution](file.java) `title`

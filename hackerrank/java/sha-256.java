@@ -1,5 +1,5 @@
 /**
-* problem: https://www.hackerrank.com/challenges/java-md5
+* problem: https://www.hackerrank.com/challenges/sha-256
 *
 * @author Shovra Das
 */
@@ -12,13 +12,13 @@ public class Solution {
         Scanner in = new Scanner(System.in);
         String s = in.next();
 
-        MessageDigest md5 = MessageDigest.getInstance("MD5");
-        md5.update(s.getBytes());
-        
+        MessageDigest sha256 = MessageDigest.getInstance("SHA-256");
+        sha256.update(s.getBytes());
+
         StringBuilder encodedString = new StringBuilder();
-        for(byte b : md5.digest())
+        for(byte b : sha256.digest())
             encodedString.append(String.format("%02x", b));
-        
+
         System.out.print(encodedString);
     }
 }
