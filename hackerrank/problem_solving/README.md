@@ -10,6 +10,7 @@
 - [problem](https://www.hackerrank.com/challenges/time-conversion) | [solution](time-conversion.py) `Time Conversion`
 - [problem](https://www.hackerrank.com/challenges/a-very-big-sum) | [solution](a-very-big-sum.py) `A Very Big Sum`
 - [problem](https://www.hackerrank.com/challenges/plus-minus) | [solution](plus-minus.py) `Plus Minus`
+- [problem](https://www.hackerrank.com/challenges/staircase) | [solution](staircase.py) `Staircase`
 - [problem](link) | [solution](file.py) `title`
 ### Implementation
 - [problem](https://www.hackerrank.com/challenges/matrix-rotation-algo) | [solution](matrix-rotation-algo.py) `Matrix Layer Rotation`
