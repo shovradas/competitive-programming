@@ -18,6 +18,7 @@
 - [problem](https://www.hackerrank.com/challenges/apple-and-orange) | [solution](apple-and-orange.py) `Apple and Orange`
 - [problem](https://www.hackerrank.com/challenges/between-two-sets) | [solution](between-two-sets.py) `Between Two Sets`
 - [problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | [solution](breaking-best-and-worst-records.py) `Breaking the Records`
+- [problem](https://www.hackerrank.com/challenges/the-birthday-bar) | [solution](the-birthday-bar.py) `Sub-array Division`
 - [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### Strings
