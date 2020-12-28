@@ -19,6 +19,7 @@
 - [problem](https://www.hackerrank.com/challenges/between-two-sets) | [solution](between-two-sets.py) `Between Two Sets`
 - [problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | [solution](breaking-best-and-worst-records.py) `Breaking the Records`
 - [problem](https://www.hackerrank.com/challenges/the-birthday-bar) | [solution](the-birthday-bar.py) `Sub-array Division`
+- [problem](https://www.hackerrank.com/challenges/migratory-birds) | [solution](migratory-birds.py) `Migratory Birds`
 - [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### Strings
@@ -51,6 +52,7 @@
 - [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### Recursion
+- [problem](https://www.hackerrank.com/challenges/recursive-digit-sum) | [solution](recursive-digit-sum.py) `Recursive Digit Sum`
 - [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### Game Theory
