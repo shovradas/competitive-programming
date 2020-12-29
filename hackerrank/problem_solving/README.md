@@ -20,6 +20,7 @@
 - [problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | [solution](breaking-best-and-worst-records.py) `Breaking the Records`
 - [problem](https://www.hackerrank.com/challenges/the-birthday-bar) | [solution](the-birthday-bar.py) `Sub-array Division`
 - [problem](https://www.hackerrank.com/challenges/migratory-birds) | [solution](migratory-birds.py) `Migratory Birds`
+- [problem](https://www.hackerrank.com/challenges/day-of-the-programmer) | [solution](day-of-the-programmer.py) `Day of the Programmer`
 - [problem](link) | [solution](file.py) `title`
 - [problem](link) | [solution](file.py) `title`
 ### Strings
