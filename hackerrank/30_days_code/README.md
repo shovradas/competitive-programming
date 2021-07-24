@@ -21,10 +21,9 @@
 - [problem](https://www.hackerrank.com/challenges/30-recursion) | [solution](30-recursion.py) `Recursion 3`
 ### Day 10
 - [problem](https://www.hackerrank.com/challenges/30-binary-numbers) | [solution](30-binary-numbers.py) `Binary Numbers`
-
-
 ### Day 11
-- [problem](https://www.hackerrank.com/challenges/) | [solution](file.py) `title`
+- [problem](https://www.hackerrank.com/challenges/30-2d-arrays) | [solution](30-2d-arrays.py) `2D Arrays`
+
 ### Day 12
 - [problem](https://www.hackerrank.com/challenges/) | [solution](file.py) `title`
 ### Day 13
