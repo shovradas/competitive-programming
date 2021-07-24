@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 """ problem: https://www.hackerrank.com/challenges/30-arrays """
 
 __author__ = "Shovra Das"
